@@ -8,6 +8,14 @@ public class Test3Application {
 	
 	int x=100;
 	public static void main(String[] args) {
+		String name=mike;
+		int x=100;
+		boolean isPresent=false;
+		int y=200;
+		char x='a';
+		double z=10.3;
+		boolean isPresent=false;
+		float m=10.3f;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
