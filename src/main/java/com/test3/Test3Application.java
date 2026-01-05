@@ -16,6 +16,7 @@ public class Test3Application {
 		double z=10.3;
 		boolean isPresent=false;
 		float m=10.3f;
+		boolean isSub=true;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
